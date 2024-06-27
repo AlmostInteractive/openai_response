@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/misc/dark_icon.png">
-  <img src="/misc/icon.png"
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ExPeacer/openai_response/main/misc/dark_icon.png">
+  <img src="https://raw.githubusercontent.com/ExPeacer/openai_response/main/misc/icon.png"
             align="right"
             width="20%"
      style="float: right; margin: 10px 0px 20px 20px;">
