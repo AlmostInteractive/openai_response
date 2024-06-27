@@ -1,5 +1,5 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/misc/dark_icon.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ExPeacer/openai_response/main/misc/dark_logo.png">
   <img src="/misc/icon.png"
             align="right"
             width="20%"
