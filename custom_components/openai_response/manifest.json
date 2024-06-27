@@ -7,6 +7,5 @@
 	"iot_class": "cloud_push",
     "codeowners": ["@AlmostInteractive"],
     "requirements": ["openai==1.34.0"],
-    "extra_quality_scale": "platinum",
     "version": "1.2.0"
 }
